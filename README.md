@@ -15,5 +15,5 @@ Image contains git and multiple node_modules :
 
 
 
-This can be used for the [Nuxt optimized images](Nuxt optimized imageshttps://www.bazzite.com/docs/nuxt-optimized-images/) bundle.
+This can be used for the [Nuxt optimized images](https://www.bazzite.com/docs/nuxt-optimized-images/) bundle.
 
